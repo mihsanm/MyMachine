@@ -1,4 +1,5 @@
 root = true
+root = card
 
 [*]
 end_of_line = lf
